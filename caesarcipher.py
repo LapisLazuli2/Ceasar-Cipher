@@ -8,7 +8,6 @@ def load_words(file_name):
     the list of words to load
 
     Returns: a list of valid words. Words are strings of lowercase letters.
-
     '''
     # print("Loading word list from file...")
     inFile = open(file_name, 'r')
